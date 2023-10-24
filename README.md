@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently Studying Computer Science <br>🌱 I’m currently learning Data Structure & Algorithm <br>💬 Ask me about JAVA, C, AWS, HTML, CSS<br>📫 How to reach me - piklu19jan@gmail.com<br>⚡ I am funny 😂
 
+## Hactoberfest Badges
+
+[![An image of @piklu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piklu)](https://holopin.io/@piklu)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/piklu_1903) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/p_i_k_l_u1903) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piklu-de-179aa5235/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21494224) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/p-i-k-l-u) 
