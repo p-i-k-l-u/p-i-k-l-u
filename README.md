@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying Computer Science <br>🌱 I’m currently learning Data Structure & Algorithm <br>💬 Ask me about JAVA, C, AWS, Jenkins, Docker, Kubernetes ![image](https://github.com/user-attachments/assets/37449264-d531-411e-b9a9-0156ff9f3e9d)
+🔭 I’m currently Studying Computer Science <br>🌱 I’m currently learning Data Structure & Algorithm <br>💬 Ask me about JAVA, C, AWS, AZURE, GCP, Jenkins, Docker, Kubernetes, Spring Boot, Spring JPA, JWT, API
 <br>📫 How to reach me - piklu19jan@gmail.com<br>⚡ I am funny 😂
 
 ## Hactoberfest Badges
