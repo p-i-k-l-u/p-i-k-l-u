@@ -2,6 +2,9 @@
 🔭 I’m currently Studying Computer Science <br>🌱 I’m currently learning Data Structure & Algorithm <br>💬 Ask me about JAVA, C, AWS, AZURE, GCP, Jenkins, Docker, Kubernetes, Spring Boot, Spring JPA, JWT, API
 <br>📫 How to reach me - piklu19jan@gmail.com<br>⚡ I am funny 😂
 
+# Motivation 
+Reset, Refocus, Restart
+
 ## Hactoberfest Badges
 
 [![An image of @piklu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piklu)](https://holopin.io/@piklu)
